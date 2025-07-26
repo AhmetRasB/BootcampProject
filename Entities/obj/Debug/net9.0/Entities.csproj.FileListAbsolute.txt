@@ -1,0 +1,11 @@
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\bin\Debug\net9.0\Entities.dll
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\Entities.dll
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Projects\.NET\WebAcademyC#\WebApplication1\Entities\obj\Debug\net9.0\ref\Entities.dll
